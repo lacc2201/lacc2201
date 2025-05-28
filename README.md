@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Laura Cabrera
 
-Soy desarrolladora junior con formación técnica en programación de software y actualmente en la recta final de mi tecnólogo en Análisis y Desarrollo de Software (me graduaré en dos meses 🎓).
+Soy desarrolladora junior con formación técnica en programación de software y actualmente tecnologa en Análisis y Desarrollo de Software.
 
 Me apasiona crear soluciones digitales funcionales y amigables, con especial interés en el desarrollo backend con **Python y Django**, así como el diseño de interfaces limpias usando **TailwindCSS** y **JavaScript**.
 
